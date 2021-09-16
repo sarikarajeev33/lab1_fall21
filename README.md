@@ -1,5 +1,5 @@
 Lab 1
-Due: Mon Sep 14
+
 
 Problem
 Write a program that asks the user for a number of milliliters (mL) and outputs the equivalent number of teaspoons and tablespoons. Note: Assume there are (rounding up) 5mL in a teaspoon and 3 teaspoons in a tablespoon.
